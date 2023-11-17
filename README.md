@@ -1,27 +1,25 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<h1 align="center">Hello 👋 I'm phexx :)</h1>
-<h3 align="center">A passionate upcoming app developer</h3>
+### Hi there 👋, my name is **Phemelo Gaborone**
+#### I am a Computer Science Major
+![I am a Computer Science Major](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5xOYqu-naXht77fdLrDROyDrEpJOF65Z0Kw&amp;usqp=CAU)<br/><br/>From Botswana, Francistown
+Studies at Botswana International University of Science and Tech
+Born 22 January 2004
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phemelogc&label=Profile%20views&color=0e75b6&style=flat" alt="phemelogc" /> </p>
+Skills: SQL / REACT / JS / HTML / DART/C
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phemelogc" alt="phemelogc" /></a> </p>
+- 🔭 I’m currently working on making mini projects like simple common sequences
+- 🌱 I’m currently learning **Mobile App Development** & **Web Design**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **Coding isn't just for the tech industry**
 
-- 🔭 I’m currently working on **building my first website**
 
-- 🌱 I’m currently learning **flutter**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg&#39; alt='github' height='40'>](https://github.com/Phemelo22) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg&#39; alt='linkedin' height='40'>](https://www.linkedin.com/in/Phemelo Gaborone/)
 
-- 🤝 I’m looking for help with **finding a good host**
+<a href='https://archiveprogram.github.com/&#39;&gt;&lt;img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif&#39; width='40' height='40'></a> <a href='https://github.com/pricing&#39;&gt;&lt;img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif&#39; width='40' height='40'></a> <a href='https://stars.github.com/&#39;&gt;&lt;img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif&#39; width='35' height='35'></a> 
 
-- 📫 How to reach me **phemelogc@gmail.com**
+[![trophy](https://github-profile-trophy.vercel.app/?username=Phemelo22)](https://github.com/ryo-ma/github-profile-trophy)<br/><br/>![GitHub stats](https://github-readme-stats.vercel.app/api?username=Phemelo22&amp;show_icons=true)
 
-- ⚡ Fun fact **I am super passionate about cs**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Phemelo22)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/phexx_senpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phexx_senpai" height="30" width="40" /></a>
-</p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Phemelo22)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phemelogc&theme=dark" alt="phemelogc" /></p>
+![Profile views](https://gpvc.arturio.dev/Phemelo22)
