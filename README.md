@@ -6,7 +6,7 @@
 
 ### Junior Software Developer 
 
-I build things that solve real problems — from a smishing detection app protecting mobile users in Botswana, to full-stack dashboards and network security labs. Computer Science & Software Engineering graduate (BIUST), based in Gaborone, Botswana.
+I build things that solve real problems in the form of applications and wevsites to full-stack dashboards and network security labs. Computer Science & Software Engineering graduate (BIUST), based in Francistown, Botswana.
 
 </div>
 
@@ -16,9 +16,9 @@ I build things that solve real problems — from a smishing detection app protec
 
 - 🎓 Computer Science & Software Engineering graduate — Botswana International University of Science and Technology (BIUST)
 - 💻 Full-stack developer with hands-on experience across mobile, backend, and web
-- 🔐 Strong interest in cybersecurity, networking, and applied machine learning
+- 🔐 Strong interest in software development , network and system administration and IT suuport
 - 🚀 Currently building and refining production-style projects while job hunting
-- 📍 Based in Gaborone, Botswana
+- 📍 Based in Francistown, Botswana
 
 ---
 
