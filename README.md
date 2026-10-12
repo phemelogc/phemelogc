@@ -98,7 +98,7 @@ An anti-smishing mobile app built to detect SMS-based scams targeting Botswana u
 
 <div align="center">
 
-**GitHub:** [github.com/phemelogc](https://github.com/phemelogc) &nbsp;|&nbsp; **Portfolio:** [PASTE_YOUR_PORTFOLIO_LINK_HERE](PASTE_YOUR_PORTFOLIO_LINK_HERE) &nbsp;|&nbsp; **Email:** [phemelogc@gmail.com](mailto:phemelogc@gmail.com)
+**GitHub:** [github.com/phemelogc](https://github.com/phemelogc) &nbsp;|&nbsp; **Portfolio:** [click here to open portfolio](PASTE_YOUR_PORTFOLIO_LINK_HERE) &nbsp;|&nbsp; **Email:** [phemelogc@gmail.com](mailto:phemelogc@gmail.com)
 
 *Thanks for stopping by — check out my pinned repositories below for code samples.*
 
